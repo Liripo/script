@@ -1,4 +1,4 @@
-if [ ! -d "~/.fonts"];then
+if [ ! -d ~/.fonts ];then
   mkdir ~/.fonts
   echo "创建文件夹~/.fonts"
 fi
